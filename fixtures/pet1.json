@@ -1,0 +1,18 @@
+{
+    "id": 532321,
+    "category": {
+        "id": 9,
+        "name": "turtle"
+    },
+    "name": "Tinker Bell",
+    "photoUrls": [
+        ""
+    ],
+    "tags": [
+        {
+            "id": 3,
+            "name": "chipado"
+        }
+    ],
+    "status": "available"
+}

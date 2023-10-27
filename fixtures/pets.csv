@@ -1,0 +1,3 @@
+petId,categoryId,categoryName,petName,photoUrls,tagsIds,tagsNames,status 
+532321,9,turtle,Tinker Bell,,1;3,femea;chipado,available
+532322,8,hamster,Teco Roi,,2,macho,available
